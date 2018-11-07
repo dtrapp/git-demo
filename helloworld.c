@@ -2,6 +2,7 @@
 #include <stdlib.h>
 void main()
 {
-	print("hello world\n");
+	printf("hello world\n");
+	printf("another line\n");
 }
 
