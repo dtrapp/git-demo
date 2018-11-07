@@ -3,7 +3,7 @@
 
 void main()
 {
-	printf("hello world\n");
+	printf("conflict in this line: hello world\n");
 	printf("another line\n");
 }
 
